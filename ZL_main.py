@@ -1,4 +1,3 @@
-import month
 import law
 d = int(input("Enter date:"))
 mth = int(input("Enter month:"))
