@@ -1,4 +1,14 @@
+import month
 import law
+print("  _                        __  __   _          _                      _ ")
+print(" | |                      |  \/  | (_)        | |                    | |")
+print(" | |__    _   _           | \  / |  _    ___  | |__     __ _    ___  | |")
+print(" | '_ \  | | | |          | |\/| | | |  / __| | '_ \   / _` |  / _ \ | |")
+print(" | |_) | | |_| |          | |  | | | | | (__  | | | | | (_| | |  __/ | |")
+print(" |_.__/   \__, |          |_|  |_| |_|  \___| |_| |_|  \__,_|  \___| |_|")
+print("           __/ |  ______                                                ")
+print("          |___/  |______|                                               ")
+print("")
 d = int(input("Enter date:"))
 mth = int(input("Enter month:"))
 y = str(input("Enter year:"))
