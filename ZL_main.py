@@ -1,4 +1,3 @@
-import month
 import law
 print("  _                        __  __   _          _                      _ ")
 print(" | |                      |  \/  | (_)        | |                    | |")
